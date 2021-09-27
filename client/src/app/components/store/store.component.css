@@ -1,0 +1,16 @@
+.row{
+    display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 35rem;
+  /* gap: 1rem; */
+  width: 100%;
+  max-width: 37.5rem;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-right: 0px;
+  padding-left: 0px;
+    margin-right: -600px;
+    margin-left: -20px;
+  
+  
+}
